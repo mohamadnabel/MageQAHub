@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-14T23:11:24 AST" name="Default suite" finished-at="2024-04-14T23:12:43 AST" duration-ms="79233">
+    <groups>
+    </groups>
+    <test started-at="2024-04-14T23:11:24 AST" name="Default test" finished-at="2024-04-14T23:12:43 AST" duration-ms="79233">
+      <class name="testCases.TestCases">
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:testCases.TestCases@75cd8043]" started-at="2024-04-14T23:11:24 AST" name="setUpTest" finished-at="2024-04-14T23:11:30 AST" duration-ms="6520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="signUpTest()[pri:1, instance:testCases.TestCases@75cd8043]" started-at="2024-04-14T23:11:30 AST" name="signUpTest" finished-at="2024-04-14T23:12:11 AST" duration-ms="41358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpTest -->
+        <test-method signature="signInTest()[pri:2, instance:testCases.TestCases@75cd8043]" started-at="2024-04-14T23:12:12 AST" name="signInTest" finished-at="2024-04-14T23:12:43 AST" duration-ms="31300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTest -->
+      </class> <!-- testCases.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

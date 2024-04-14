@@ -1,0 +1,11 @@
+-----------------------------------------------------------------
+https://magento.softwaretestingboard.com/
+1- create a sign up process 
+2- create login process
+3-go to bags section add the first,third ,fifth item etc.. ( one element is added next one is skipped) 
+
+4- then do one assertion that the total number of bags that were added is equal to the total number of bags inside this page / 2 
+https://magento.softwaretestingboard.com/gear/bags.html 
+5- complete the checkout process 
+
+______________________________________________
